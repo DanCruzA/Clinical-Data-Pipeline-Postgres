@@ -33,3 +33,5 @@ SELECT
     C.fecha,
     ROW_NUMBER() OVER(PARTITION BY P.id_paciente ORDER BY C.fecha) as Nro_Visita
 FROM Citas C ...
+
+**Nota de Seguridad:** *Las credenciales de base de datos están hardcodeadas únicamente para propósitos demostrativos en entorno local. En un entorno de producción, utilizaría variables de entorno (`os.environ`) o un gestor de secretos como AWS Secrets Manager.*
