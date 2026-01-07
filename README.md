@@ -1,7 +1,7 @@
 # 🏥 Sistema de Gestión de Datos Clínicos (SQL + Python)
 
 ## 📋 Descripción del Proyecto
-Este proyecto simula el flujo de datos de una red de salud (similar a **InSalud**). Se diseñó un pipeline de Ingeniería de Datos que integra **Python** para la orquestación y **PostgreSQL** (corriendo sobre Linux) como motor de base de datos persistente.
+Este proyecto simula el flujo de datos de una red de salud. Se diseñó un pipeline de Ingeniería de Datos que integra **Python** para la orquestación y **PostgreSQL** (corriendo sobre Linux) como motor de base de datos persistente.
 
 El objetivo es demostrar cómo transformar datos transaccionales (Citas, Médicos, Pacientes) en información estratégica para la toma de decisiones (KPIs).
 
