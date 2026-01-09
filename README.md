@@ -7,7 +7,7 @@ El objetivo es demostrar cómo transformar datos transaccionales (Citas, Médico
 
 ## 🛠️ Stack Tecnológico
 * **Lenguaje:** Python 3.10
-* **Base de Datos:** PostgreSQL 16 (Local en Linux Pop!_OS)
+* **Base de Datos:** PostgreSQL 18.1 (Local en Linux Pop!_OS)
 * **Orquestación & ETL:** SQLAlchemy & Pandas
 * **Análisis:** SQL Avanzado (Window Functions, Aggregations)
 
